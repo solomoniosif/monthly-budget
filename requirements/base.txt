@@ -1,0 +1,4 @@
+Django==4.1.2
+django-environ==0.9.0
+argon2-cffi==21.3.0
+pytz==2022.4
